@@ -1,0 +1,16 @@
+{
+  "name": "cli-task-manager",
+  "version": "1.0.0",
+  "description": "A simple CLI Task Manager for a Node.js assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "nodejs",
+    "async"
+  ],
+  "author": "Mahasiswa",
+  "license": "ISC"
+}
