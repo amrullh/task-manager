@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "Belajar NodeJS Async",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "description": "Mengerjakan Tugas CLI",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "description": "Upload tugas ke GitHub",
+    "completed": false
+  }
+]
